@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Publications by Chris McMahan</title>
+<link>https://mcmaha2.com/publications/</link>
+<atom:link href="https://mcmaha2.com/publications/index.xml" rel="self" type="application/rss+xml"/>
+<description>Working papers and published articles by Chris McMahan</description>
+<image>
+<url>https://mcmaha2.com/assets/img/mcmaha2.webp</url>
+<title>Publications by Chris McMahan</title>
+<link>https://mcmaha2.com/publications/</link>
+</image>
+<generator>quarto-1.8.4</generator>
+<lastBuildDate>Tue, 31 Dec 2024 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Prelimbic Neuron Calcium Activity Predicts Perceived Hedonic Value Across Drinking Solutions and Ethanol Dependent States in Mice</title>
+  <dc:creator>Rinker, J., Hoffman, M., Knapp, J., Wukitsch, T., Kutlu, M., Calipari, E., &lt;b&gt;McMahan, C.&lt;/b&gt;, Baker, H., Woodward, J., and Mulholland, P.</dc:creator>
+  <link>https://mcmaha2.com/publications/Articles/100.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>This study focuses on the topics covered in the article titled “Prelimbic Neuron Calcium Activity Predicts Perceived Hedonic Value Across Drinking Solutions and Ethanol Dependent States in Mice”.</p>
+
+
+
+ ]]></description>
+  <guid>https://mcmaha2.com/publications/Articles/100.html</guid>
+  <pubDate>Tue, 31 Dec 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Estimating State-Wide COVID-19 Hospitalizations Using Local Health System Data: A Machine Learning Approach</title>
+  <dc:creator>Ahammed, T., Hossain, S., &lt;b&gt;McMahan, C.&lt;/b&gt;, and Rennert, L.</dc:creator>
+  <link>https://mcmaha2.com/publications/Articles/101.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>This study focuses on the topics covered in the article titled “Estimating State-Wide COVID-19 Hospitalizations Using Local Health System Data: A Machine Learning Approach”.</p>
+
+
+
+ ]]></description>
+  <guid>https://mcmaha2.com/publications/Articles/101.html</guid>
+  <pubDate>Tue, 31 Dec 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Small Area Estimation of the Effective Reproductive Number with Sparse Data</title>
+  <dc:creator>Hossain, S., Goyal, R., Martin, N., DeGruttola, V., Chowdhury, M., &lt;b&gt;McMahan, C.&lt;/b&gt;, and Rennert, L.</dc:creator>
+  <link>https://mcmaha2.com/publications/Articles/102.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>This study focuses on the topics covered in the article titled “Small Area Estimation of the Effective Reproductive Number with Sparse Data”.</p>
+
+
+
+ ]]></description>
+  <guid>https://mcmaha2.com/publications/Articles/102.html</guid>
+  <pubDate>Tue, 31 Dec 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>An Efficient Statistical Inference Approach for Model Calibration Using Griddy Gibbs Sampling</title>
+  <dc:creator>Wright, S., Stewart, H., Sharma, S., Redmond, L., &lt;b&gt;McMahan, C.&lt;/b&gt;, and Castanier, M.</dc:creator>
+  <link>https://mcmaha2.com/publications/Articles/103.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>This study focuses on the topics covered in the article titled “An Efficient Statistical Inference Approach for Model Calibration Using Griddy Gibbs Sampling”.</p>
+
+
+
+ ]]></description>
+  <guid>https://mcmaha2.com/publications/Articles/103.html</guid>
+  <pubDate>Tue, 31 Dec 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Genomic Prediction of Stalk Lodging Resistance and the Associated Intermediate Phenotypes in Maize Using Whole-Genome Sequence and Multi-Environmental Data</title>
+  <dc:creator>Machado e Silva, C.†, Kunduru, B.†, Bokoros, N.†, Tabaracci, K.†, Brar, M., Kumar, R., Nardino, M., &lt;b&gt;McMahan, C.&lt;/b&gt;, Debolt, S., Robertson, D., Sekhon, R., and Morota, G.</dc:creator>
+  <link>https://mcmaha2.com/publications/Articles/104.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>This study focuses on the topics covered in the article titled “Genomic Prediction of Stalk Lodging Resistance and the Associated Intermediate Phenotypes in Maize Using Whole-Genome Sequence and Multi-Environmental Data”.</p>
+
+
+
+ ]]></description>
+  <guid>https://mcmaha2.com/publications/Articles/104.html</guid>
+  <pubDate>Tue, 31 Dec 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>A Mixed Effects Bayesian Regression Model for Multivariate Group Testing Data</title>
+  <dc:creator>&lt;b&gt;McMahan, C.&lt;/b&gt;, Joyner, C.⋆, Tebbs, J., and Bilder, C.</dc:creator>
+  <link>https://mcmaha2.com/publications/Articles/105.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>This study focuses on the topics covered in the article titled “A Mixed Effects Bayesian Regression Model for Multivariate Group Testing Data”.</p>
+
+
+
+ ]]></description>
+  <guid>https://mcmaha2.com/publications/Articles/105.html</guid>
+  <pubDate>Tue, 31 Dec 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>binGroup2: Statistical Tools for Infection Identification via Group Testing</title>
+  <dc:creator>Bilder, C., Hitt, B.†, Schaarschmidt, F., Biggerstaff, B., Tebbs, J., and &lt;b&gt;McMahan, C.&lt;/b&gt;</dc:creator>
+  <link>https://mcmaha2.com/publications/Articles/90.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>This study focuses on the topics covered in the article titled “binGroup2: Statistical Tools for Infection Identification via Group Testing”.</p>
+
+
+
+ ]]></description>
+  <guid>https://mcmaha2.com/publications/Articles/90.html</guid>
+  <pubDate>Tue, 31 Dec 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>SARS-CoV-2 Variant Introduction Following Spring Break Travel and Transmission Mitigation Strategies</title>
+  <dc:creator>Napolitano, J., Srikanth, S., Noorai, R., Wilson, S., Williams, K., Rosales-Garcia, R., Krueger, B., Emerson, C., Parker, S., Pruitt, J., Dango, R., Iyer, L., Shafi, A., Jayawardena, I., Parkinson, C., &lt;b&gt;McMahan, C.&lt;/b&gt;, Rennert, L., Peng, C., and Dean, D.</dc:creator>
+  <link>https://mcmaha2.com/publications/Articles/91.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>This study focuses on the topics covered in the article titled “SARS-CoV-2 Variant Introduction Following Spring Break Travel and Transmission Mitigation Strategies”.</p>
+
+
+
+ ]]></description>
+  <guid>https://mcmaha2.com/publications/Articles/91.html</guid>
+  <pubDate>Tue, 31 Dec 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Unpacking Conservation Easements’ Assessed Land Use Designations and Their Implications for Realizing Biodiversity Protection</title>
+  <dc:creator>Dyckman, C., &lt;b&gt;McMahan, C.&lt;/b&gt;, Overby, A., Fouch, N.†, Ogletree, S.†, Self, S., White, D., Lauria, M., and Baldwin, R.</dc:creator>
+  <link>https://mcmaha2.com/publications/Articles/92.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>This study focuses on the topics covered in the article titled “Unpacking Conservation Easements’ Assessed Land Use Designations and Their Implications for Realizing Biodiversity Protection”.</p>
+
+
+
+ ]]></description>
+  <guid>https://mcmaha2.com/publications/Articles/92.html</guid>
+  <pubDate>Tue, 31 Dec 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Sorghum bicolor L. Stalk Stiffness is Marginally Affected by Time of Day Under Field Conditions</title>
+  <dc:creator>Bokros, N.†, Woomer, J., Schroder, Z., Kunduru, B.†, Brar, M., Seegmiller, J., &lt;b&gt;McMahan, C.&lt;/b&gt;, Robertson, D., Sekhon, R., and DeBolt, S.</dc:creator>
+  <link>https://mcmaha2.com/publications/Articles/93.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>This study focuses on the topics covered in the article titled “Sorghum bicolor L. Stalk Stiffness is Marginally Affected by Time of Day Under Field Conditions”.</p>
+
+
+
+ ]]></description>
+  <guid>https://mcmaha2.com/publications/Articles/93.html</guid>
+  <pubDate>Tue, 31 Dec 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>A Computationally Efficient Alternative to Markov Chain Monte Carlo Sampling for Fitting Large Bayesian Spatio-Temporal Binomial Regression Models</title>
+  <dc:creator>Huang, R., &lt;b&gt;McMahan, C.&lt;/b&gt;, Herrin, B., McLain, A., Cai, B., and Self, S.</dc:creator>
+  <link>https://mcmaha2.com/publications/Articles/94.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>This study focuses on the topics covered in the article titled “A Computationally Efficient Alternative to Markov Chain Monte Carlo Sampling for Fitting Large Bayesian Spatio-Temporal Binomial Regression Models”.</p>
+
+
+
+ ]]></description>
+  <guid>https://mcmaha2.com/publications/Articles/94.html</guid>
+  <pubDate>Tue, 31 Dec 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>A Mixed Effects Bayesian Regression Model for Multivariate Group Testing Data</title>
+  <dc:creator>&lt;b&gt;McMahan, C.&lt;/b&gt;, Joyner, C.⋆, Tebbs, J., and Bilder, C.</dc:creator>
+  <link>https://mcmaha2.com/publications/Articles/95.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>This study focuses on the topics covered in the article titled “A Mixed Effects Bayesian Regression Model for Multivariate Group Testing Data”.</p>
+
+
+
+ ]]></description>
+  <guid>https://mcmaha2.com/publications/Articles/95.html</guid>
+  <pubDate>Tue, 31 Dec 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Bayesian Additive Regression Trees for Group Testing Data</title>
+  <dc:creator>St. Ville, M.⋆, &lt;b&gt;McMahan, C.&lt;/b&gt;, Bible, J., Tebbs, J., and Bilder, C.</dc:creator>
+  <link>https://mcmaha2.com/publications/Articles/96.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>This study focuses on the topics covered in the article titled “Bayesian Additive Regression Trees for Group Testing Data”.</p>
+
+
+
+ ]]></description>
+  <guid>https://mcmaha2.com/publications/Articles/96.html</guid>
+  <pubDate>Tue, 31 Dec 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Probit Time-to-Event Regression for Misclassified Group Testing Data</title>
+  <dc:creator>Fang, L., Hu, T., Li, S., Wang, L., &lt;b&gt;McMahan, C.&lt;/b&gt;, and Tebbs, J.</dc:creator>
+  <link>https://mcmaha2.com/publications/Articles/97.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>This study focuses on the topics covered in the article titled “Probit Time-to-Event Regression for Misclassified Group Testing Data”.</p>
+
+
+
+ ]]></description>
+  <guid>https://mcmaha2.com/publications/Articles/97.html</guid>
+  <pubDate>Tue, 31 Dec 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Smoking, Race, Ancestry and Prospective Abstinence</title>
+  <dc:creator>Bergen, A., Ervin, C., &lt;b&gt;McMahan, C.&lt;/b&gt;, Baurley, J., Javitz, H. et al.</dc:creator>
+  <link>https://mcmaha2.com/publications/Articles/98.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>This study focuses on the topics covered in the article titled “Smoking, Race, Ancestry and Prospective Abstinence”.</p>
+
+
+
+ ]]></description>
+  <guid>https://mcmaha2.com/publications/Articles/98.html</guid>
+  <pubDate>Tue, 31 Dec 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Combining Data Sets for Semiparametric Additive Modeling</title>
+  <dc:creator>Gregory, K., and &lt;b&gt;McMahan, C.&lt;/b&gt;</dc:creator>
+  <link>https://mcmaha2.com/publications/Articles/99.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>This study focuses on the topics covered in the article titled “Combining Data Sets for Semiparametric Additive Modeling”.</p>
+
+
+
+ ]]></description>
+  <guid>https://mcmaha2.com/publications/Articles/99.html</guid>
+  <pubDate>Tue, 31 Dec 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>A Nowcast Model to Predict Flea Activity in Real Time for the Contiguous United States</title>
+  <dc:creator>Self, S., Yang, Y.⋆, Walden, H., Yabsley, M., &lt;b&gt;McMahan, C.&lt;/b&gt;, and Herrin, B.</dc:creator>
+  <link>https://mcmaha2.com/publications/Articles/87.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>This study focuses on the topics covered in the article titled “A Nowcast Model to Predict Flea Activity in Real Time for the Contiguous United States”.</p>
+
+
+
+ ]]></description>
+  <guid>https://mcmaha2.com/publications/Articles/87.html</guid>
+  <pubDate>Sat, 27 Jan 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Estimation of l0 Norm Penalized Models: A Statistical Treatment</title>
+  <dc:creator>Yang, Y.⋆, &lt;b&gt;McMahan, C.&lt;/b&gt;, Wang, Y., and Ouyang, Y.</dc:creator>
+  <link>https://mcmaha2.com/publications/Articles/86.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>This study focuses on the topics covered in the article titled “Estimation of l0 Norm Penalized Models: A Statistical Treatment”.</p>
+
+
+
+ ]]></description>
+  <guid>https://mcmaha2.com/publications/Articles/86.html</guid>
+  <pubDate>Mon, 01 Jan 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Regression Analysis of Group-Tested Current Status Data</title>
+  <dc:creator>Li, S., Hu, T., Wang, L., &lt;b&gt;McMahan, C.&lt;/b&gt;, and Tebbs, J.</dc:creator>
+  <link>https://mcmaha2.com/publications/Articles/88.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>This study focuses on the topics covered in the article titled “Regression Analysis of Group-Tested Current Status Data”.</p>
+
+
+
+ ]]></description>
+  <guid>https://mcmaha2.com/publications/Articles/88.html</guid>
+  <pubDate>Mon, 01 Jan 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Participatory Assessment of Pollution and Health Risk in Artisanal and Small-Scale Gold Mining Communities in Colombia</title>
+  <dc:creator>McCourt, K.†, Sautter, G., Vanegas, D., &lt;b&gt;McMahan, C.&lt;/b&gt;, Lee, C., Carraway, E., and Velez-Torres, I.</dc:creator>
+  <link>https://mcmaha2.com/publications/Articles/89.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>This study focuses on the topics covered in the article titled “Participatory Assessment of Pollution and Health Risk in Artisanal and Small-Scale Gold Mining Communities in Colombia”.</p>
+
+
+
+ ]]></description>
+  <guid>https://mcmaha2.com/publications/Articles/89.html</guid>
+  <pubDate>Mon, 01 Jan 2024 05:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
